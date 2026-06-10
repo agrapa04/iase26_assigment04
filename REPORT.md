@@ -13,12 +13,15 @@ generate it). Crashing inputs are grouped under `output/crashes/exit<code>/`, so
 directory name. One representative per exit code is enough.
 
 1. exit-1073740940
+
 greting="hello world"
+
 words=["a", "b", "c"]
+
 matrix=[["a", "b"], ["c",, "d"]]
 
 2. exit-1073741819
-greeeeting="hello world
+input : greeeeting="hello world
 words=["a", "b", "b"]
 matri=[["a", "b"], ["c", "d"]]
 
