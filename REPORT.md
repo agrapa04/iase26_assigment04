@@ -1,11 +1,10 @@
 # Fuzzing report: iase26 Assignment 04
 
-Name(s) and student ID:
+Name(s) and student ID: Adrienne Grapa 4759958 & Mirza Mohammad Faiq Baig 4767143
 
 ## Platform tested
 
-(The OS and architecture you ran the fuzzer on, e.g. macOS 14 arm64, Ubuntu 22.04 x86_64,
-Windows 11 x86_64.)
+Windows 11 x64
 
 ## Exercise 1: mutational fuzzer
 
