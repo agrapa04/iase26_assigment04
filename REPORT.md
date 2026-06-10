@@ -19,7 +19,7 @@ words=["a", "b", "c"]
 matrix=[["a", "b"], ["c",, "d"]]`
 
 2. exit-1073741819
-`input : greeeeting="hello world
+`greeeeting="hello world
 words=["a", "b", "b"]
 matri=[["a", "b"], ["c", "d"]]`
 
